@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "your_postgres_user",
+    "password": "your_postgres_password",
+    "database": "support_case_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
